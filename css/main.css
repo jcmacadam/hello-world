@@ -23,5 +23,8 @@ img {
 <style>
 body {
   background-image: url(https://i.pinimg.com/originals/ef/47/f4/ef47f4c663869a49bdb6c70155e055a3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 </style>
