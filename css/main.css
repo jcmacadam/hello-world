@@ -29,4 +29,6 @@ body {
 }
 </style>
 
-color: rgba(0, 0, 0, 0.5);
+h3 {
+text-shadow: 2px 4px 10px red;
+}
